@@ -23,4 +23,4 @@ From the project root directory execute all tests with `php .\tools\bin\phpunit.
 
 ### License
 
-This project is shared under license CC BY 4.0 (<https://creativecommons.org/licenses/by/4.0/>)
+This project is licensed under the GNU GPL License.
